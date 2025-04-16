@@ -1,0 +1,4 @@
+cutil git@github.com:mojyack/cutil.git b3d8259b01fc506c5ea0015e29b9183203d45e4a
+cutil-macros git@github.com:mojyack/cutil-macros dbe22456dd1a28788076e1c5d95c935ac003f483
+crypto-utils git@github.com:mojyack/crypto-utils 2c6e3b8ccbc6cdd29680f90580066dc8bc784adc
+process-spawn-cpp git@github.com:mojyack/process-spawn-cpp.git 5bb95b1612858775909a7e302ac2b7b9bf971228
